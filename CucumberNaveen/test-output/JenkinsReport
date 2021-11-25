@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="10" time="0.013508">
+    <testcase classname="Hooks" name="login into portal" time="0.004882">
+        <system-out>
+            <![CDATA[Given user logs into portal.................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hooks" name="user product search" time="0.001457">
+        <system-out>
+            <![CDATA[Given user searches for product.............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hooks" name="user adds a product into basket" time="0.000607">
+        <system-out>
+            <![CDATA[Given user adds a product to bag............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hooks" name="user searches for orders" time="0.000993">
+        <system-out>
+            <![CDATA[Given user in order history page............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hooks" name="user registration" time="0.000974">
+        <system-out>
+            <![CDATA[Given user signs up.........................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hooks" name="User orders for a product" time="0.001356">
+        <system-out>
+            <![CDATA[Given user orders a aproduct................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hooks" name="newsletter subscription" time="0.000653">
+        <system-out>
+            <![CDATA[Given subscribes for a product..............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hooks" name="change of password" time="0.000933">
+        <system-out>
+            <![CDATA[Given user changes password.................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hooks" name="Checking order status" time="0.000983">
+        <system-out>
+            <![CDATA[Given user checks order status..............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Hooks" name="add too fav" time="0.00067">
+        <system-out>
+            <![CDATA[Given user adds product to fav..............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

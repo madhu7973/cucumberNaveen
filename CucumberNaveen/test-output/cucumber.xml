@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="73.810335">
+<testcase classname="walmart search" name="user serches for product" time="73.810335">
+<system-out><![CDATA[Given user cliscks on search field..........................................passed
+And user enters keyword.....................................................passed
+And clicks on search icon...................................................passed
+Then user is redirected to PLP and close the browser........................passed
+]]></system-out>
+</testcase>
+</testsuite>
